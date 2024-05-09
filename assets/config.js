@@ -1,16 +1,16 @@
 export const config = {
-  name: "Gradus Codelab",
-  dsec: "Developer Hub, where you can access labs for various tech stacks to delve into detailed use cases of technologies.",
+  name: "GDG Baku Codelab",
+  dsec: "GDG Baku is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. ",
   thumbnail: "donotremove/gradus-social.png",
-  hostUrl: "https://trygradus.web.app/",
+  hostUrl: "https://codelabs-gdgbaku.web.app/",
   favicon: "/favicon.ico",
   social: {
-    linkedin: "https://www.linkedin.com/in/trygradus/",
-    twitter: "https://twitter.com/trygradus",
-    instagram: "https://www.instagram.com/trygradus/",
-    github: "https://github.com/oss-labs/gradus",
+    linkedin: "https://www.linkedin.com/company/gdgbaku/",
+    twitter: "",
+    instagram: "https://www.instagram.com/gdg.baku/",
+    github: "https://github.com/gdginbaku",
     youtube: "",
-    web: "https://trygradus.web.app/",
+    web: "https://gdgbaku.az/",
   },
   filters: ["GRADUS", "WEB"],
   config: {
@@ -18,7 +18,7 @@ export const config = {
     aiFlagType: "openai", // openai or gemini
     theme: "light", // dark or light
     banner: {
-      status: true,
+      status: false,
       title: "We're at Product Hunt 🚀",
       content: "Show some ❤️ and support the Gradus",
       link: "https://www.producthunt.com/products/gradus",

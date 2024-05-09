@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site":"codelabs-gdgbaku",
     "public": ".output/public",
     "cleanUrls": true,
     "ignore": [
