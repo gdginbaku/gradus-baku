@@ -12,7 +12,7 @@ export const config = {
     youtube: "",
     web: "https://gdgbaku.az/",
   },
-  filters: ["GRADUS", "WEB"],
+  filters: ["GRADUS", "WEB", "Baku"],
   config: {
     aiFlag: false,
     aiFlagType: "openai", // openai or gemini
